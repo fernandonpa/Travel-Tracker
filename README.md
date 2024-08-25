@@ -45,7 +45,7 @@ Make sure you have the following installed:
 
     - Create a PostgreSQL database named `World`.
     - Create the required tables using the provided SQL scripts.
-    - Import the `capitals.csv` file into the `capitals` table.
+    - Import the `countries.csv` file into the `countries` table.
 
 4. Start the server:
 
